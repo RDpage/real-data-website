@@ -919,7 +919,8 @@ line-height: 2;
 }
 
 .data-voucher  img {
-  width: 50vw;
+/*   width: 50vw; */
+  width: 800px;
 }
 
 /* 
