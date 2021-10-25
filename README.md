@@ -13,3 +13,9 @@
 8. data2.json, main_anima_json5/data5.json : 홈페이지 상단 메인 화면에 표시되는 애니메이션 파일입니다.
   - HTML 구조에서 상단에 Header Area End 아래 부분 div에 id가 "bm" 인 부분과 연결되어 있습니다. 
   
+  
+  
+회사 연혁 part reference
+1. https://www.youtube.com/watch?v=QB5qc0smeS0&list=PLe9WXHRkq9p3cOekkBWncPr6pNgcHq0AL&index=7&t=2s
+2. https://www.youtube.com/watch?v=yP0sN8_hqko&list=PLe9WXHRkq9p3cOekkBWncPr6pNgcHq0AL&index=8
+3. https://www.youtube.com/watch?v=onLTRLGWkXY&list=PLe9WXHRkq9p3cOekkBWncPr6pNgcHq0AL&index=9
