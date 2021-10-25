@@ -918,10 +918,16 @@ line-height: 2;
   padding: 100px 0;
 }
 
-.data-voucher  img {
-  /* width: 50vw; */
+/* .data-voucher  img {
+  width: 50vw;
+} */
+
+.data-voucher .img-wrapper .container {
   width: 800px;
+  height: 700px;
+  background: url('assets/images/data-voucher-img.svg') no-repeat 0 0;
 }
+
 /* 
 ---------------------------------------------
 contact us
