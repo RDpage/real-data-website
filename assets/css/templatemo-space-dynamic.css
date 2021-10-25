@@ -925,6 +925,7 @@ line-height: 2;
 .data-voucher .img-wrapper .container {
   width: 800px;
   height: 700px;
+  background: #E7ECF0;
   background: url('assets/images/data-voucher-img.svg') no-repeat 0 0;
 }
 
