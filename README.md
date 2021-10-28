@@ -9,7 +9,7 @@
 5. assets/images/logos : 홈페이지 하단에 보이는 수요기업 로고 이미지 파일이 담겨있습니다.
 6. assets/js/templatemo-custom.js : 홈페이지 구성 시 사용된 기능을 담고 있습니다.
  ex) top 버튼, show more 버튼, 각종 버튼 클릭 이벤트
-7. assets/js/banner_wraper.js : 홈페이지 하단 수요기업 로고 베너 기능관련 코드.
+7. assets/js/banner_wraper.js : 홈페이지 하단 수요기업 이미지 슬라이더 관한 기능을 구성합니다.
 8. assets/js/timeline.js : 회사 연혁 부분의 기능을 구성합니다.
 9. data2.json, main_anima_json5/data5.json : 홈페이지 상단 메인 화면에 표시되는 애니메이션 파일입니다.
   - HTML 구조에서 상단에 Header Area End 아래 부분 div에 id가 "bm" 인 부분과 연결되어 있습니다. 
