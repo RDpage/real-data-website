@@ -18,7 +18,7 @@ window.onload = function() {
         last = imgCut;
         setInterval(function() {
             $img.each(function() {
-                $(this).css("left", $(this).position().left-1); //1px씩 왼쪽으로 이동
+                $(this).css("left", $(this).position().left-2); //2px씩 왼쪽으로 이동
             });
             $first = $("#banner"+first);
             $last = $("#banner"+last);
